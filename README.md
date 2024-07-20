@@ -1,8 +1,14 @@
-# React + Vite
+# TODO APP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Features used**
+* TAILWIND
+* FIREBASE (AUTH,FIRESTORE)
+* REACTJS
 
-Currently, two official plugins are available:
+**Functionalities**
+* User can add, adit, remove todos
+* User can signup/signin using google services
+* Todos are being stored in firestore
+* Only todos of that user will be displayed who has loggedIn to this app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Enjoy using this todo app and manage your daily chores
